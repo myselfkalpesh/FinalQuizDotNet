@@ -1,0 +1,10 @@
+C:\Users\1896153\source\repos\QuizThreeDotNet\QuizThreeDotNet\bin\Debug\QuizThreeDotNet.exe.config
+C:\Users\1896153\source\repos\QuizThreeDotNet\QuizThreeDotNet\bin\Debug\QuizThreeDotNet.exe
+C:\Users\1896153\source\repos\QuizThreeDotNet\QuizThreeDotNet\bin\Debug\QuizThreeDotNet.pdb
+C:\Users\1896153\source\repos\QuizThreeDotNet\QuizThreeDotNet\obj\Debug\QuizThreeDotNet.csprojAssemblyReference.cache
+C:\Users\1896153\source\repos\QuizThreeDotNet\QuizThreeDotNet\obj\Debug\QuizThreeDotNet.Form1.resources
+C:\Users\1896153\source\repos\QuizThreeDotNet\QuizThreeDotNet\obj\Debug\QuizThreeDotNet.Properties.Resources.resources
+C:\Users\1896153\source\repos\QuizThreeDotNet\QuizThreeDotNet\obj\Debug\QuizThreeDotNet.csproj.GenerateResource.cache
+C:\Users\1896153\source\repos\QuizThreeDotNet\QuizThreeDotNet\obj\Debug\QuizThreeDotNet.csproj.CoreCompileInputs.cache
+C:\Users\1896153\source\repos\QuizThreeDotNet\QuizThreeDotNet\obj\Debug\QuizThreeDotNet.exe
+C:\Users\1896153\source\repos\QuizThreeDotNet\QuizThreeDotNet\obj\Debug\QuizThreeDotNet.pdb
